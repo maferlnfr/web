@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)file:///C:/Users/HOME/Downloads/inicio.html -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducción a la Inteligencia Artificial</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+        .section-title {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Introducción a la Inteligencia Artificial</h1>
+    </header>
+
+    <div class="container">
+
+        <!-- Sección 1: Introducción a la IA -->
+        <section id="introduccion">
+            <h2 class="section-title">¿Qué es la Inteligencia Artificial?</h2>
+            <p>La Inteligencia Artificial (IA) se refiere a la simulación de procesos de inteligencia humana mediante algoritmos y sistemas informáticos. Incluye el aprendizaje, el razonamiento y la toma de decisiones. La IA permite a las máquinas realizar tareas que normalmente requieren inteligencia humana, como entender el lenguaje natural y reconocer patrones.</p>
+            <img src="./Seminario_files/images" alt="Definición de Inteligencia Artificial">
+        </section>
+
+        <!-- Sección 2: Tipos de IA -->
+        <section id="tipos-ia">
+            <h2 class="section-title">Tipos de Inteligencia Artificial</h2>
+            <ul>
+                <li><strong>IA Débil:</strong> Diseñada para tareas específicas como chatbots y asistentes virtuales.</li>
+                <li><strong>IA Fuerte:</strong> Teórica, con habilidades similares a las humanas en cualquier área cognitiva.</li>
+                <li><strong>IA General:</strong> Capaz de realizar cualquier tarea cognitiva humana.</li>
+                <li><strong>IA Específica:</strong> Especializada en tareas concretas, como el reconocimiento facial.</li>
+            </ul>
+            <img src="./Seminario_files/231207-aca13-des-f1-cautela-para-utilizar-la-IA.jpg" alt="Tipos de Inteligencia Artificial">
+        </section>
+
+        <!-- Sección 3: Aplicaciones de IA -->
+        <section id="aplicaciones">
+            <h2 class="section-title">Aplicaciones de la Inteligencia Artificial</h2>
+            <p>La IA se utiliza en una variedad de aplicaciones en la vida cotidiana, desde asistentes virtuales hasta sistemas de diagnóstico médico. Aquí hay algunos ejemplos:</p>
+            <ul>
+                <li><strong>Asistentes Virtuales:</strong> Como Google Assistant y Siri, que ayudan a realizar tareas y responder preguntas.</li>
+                <li><strong>Reconocimiento Facial:</strong> Utilizado en seguridad y en redes sociales para etiquetar fotos.</li>
+                <li><strong>Diagnóstico Médico:</strong> Sistemas que ayudan a los médicos a analizar imágenes médicas y diagnosticar enfermedades.</li>
+            </ul>
+            <img src="./Seminario_files/cerebro.png" alt="Aplicaciones de Inteligencia Artificial">
+        </section>
+
+    </div>
+
+
+
+</body></html>
